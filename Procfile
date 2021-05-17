@@ -1,1 +1,1 @@
-web:sh setup.sh && streamlit run spamDetector.py
+web: sh setup.sh && streamlit run spamDetector.py
